@@ -1,5 +1,6 @@
 # Google-Hash-Code-2020-practice
-Google Hash Code 2020 practice round
+Google Hash Code 2020 practice round problem
+<a href="https://github.com/Javiito32/Google-Hash-Code-2020-practice/blob/master/problem_statement.pdf">problem_statement.pdf</a> is the problem to resolve with a programming languague of your choice, the input data is on <a href="https://github.com/Javiito32/Google-Hash-Code-2020-practice/tree/master/Input%20Data">Input Data</a>
 ## Maximum Theorical values
 <table>
   <tr>
